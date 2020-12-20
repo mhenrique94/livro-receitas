@@ -1,0 +1,66 @@
+Web Services
+
+Serviços de integração para counicação entre interfaces HTTP por meio de protocolos
+
+XML & JSON - linguagens para integração
+
+XML - Extensible markup Language
+ - criada em 90s
+ - facilita a separação de conteudo
+ - não tem limitação de tags
+ - linguagem comum para integração entre aplicações
+ 
+JSON - JavaScript Object Notation
+	Formatação leve
+	Estrutura com chaves e listas ordenadas
+	Um dos mais populares
+	
+SOAP - protocolo baseado em XML
+	- independente de plataforma ou software
+	- pode ser usado por outros protocolos além de http
+
+Estrutura
+	SOAP envelope
+		SOAP header
+			SOAP body
+			
+Envelope - primeiro elemento, utilizado para encapsular toda a linguagem SOAP
+
+Header - possui informações de atributos e metadados da requisição
+
+Body - contém os detalhes da mensagem
+
+
+WSDL - Web Services Description Language
+	É como um contrato, descxrevendo como a comunicação será feita
+
+XSD - XML Schema definition
+	É um esquema pra definir a estrutura de dados do XML
+	É uma documentação de como deve ser montado o SOAP que será enviado
+	
+Rest - Representational State Transfer
+	Estilo/design de arquitetura de software que define a implementação de um serviço web
+	Pode trabalhar com formatos XML, JSON ou outros
+	Permite integração entre aplicações e cliente e servidor de páginas web e aplicações
+	Sobre HTTP
+	Fácil compreensão
+	
+API - Application Programming interface
+	São conjuntos de rotinas documentadas onde aplicações consumem suas funcionalidades
+	
+
+Principais métodos HTTP
+
+GET - solicita representação do recurso (lê)
+POST - solicita a criação do recurso
+Delete - exclusão do recurso
+PUT - solicitaa atualização do recurso
+
+Código de Estado
+Usado pelo servidor para avisar o cliente sobre a operação
+	1xx - informativo
+	2xx - sucesso
+	3xx - redirecionamento
+	4xx - erro do cliente
+	5xx - erro do servidor
+	

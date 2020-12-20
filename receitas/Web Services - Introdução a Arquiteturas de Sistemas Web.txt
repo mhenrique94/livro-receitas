@@ -1,0 +1,69 @@
+Introdução a Arquiteturas de Sistemas Web
+
+Monolito
+ - uma aplicação com algumas instancias
+
+ 
+ Banco de dados > aplicação (com suas instancias) > proxy Http > web/mobile app
+ 
+ Microserviços
+  - 1 serviço para cada operação que possuem comunicação entre eles
+  
+  Serviço externo e bancos de dados > serviços interligados por Nodes (cada node pode ter várias instâncias de um serviço) > proxy http web/mobile app
+  
+  Gerenciador de pipeline
+  Serviço que faz a gestão das operações conectando as requisições de operação aos serviços, que por sua vez se comunicam de forma independente com bancos de dados, serviços extenos, etc
+	- Se houver falha entre os serviços, esse gestor tem que estar apto a voltar e reverter a operação, para que não haja inconsistências no servidor
+	
+
+Pros e contras Monolito
+	
+	Baixa complexidade e monitoramento simpliicado
+	
+	contras
+		- stack única
+		- compartilhamento de recursos
+		- acoplamento (as funcionalidades estão acompladas, mesma base de códigos
+		- mais complexo dependendo da escalabilidade
+		
+Pros e contras Microserviços 1 
+	- stack dinâmica (python, go, ruby, etc)
+	- simples escalabilidade
+	
+	contras
+		- acoplamento
+		- monitoramento mais complexo (várias aplicações, tecnologias e bases de códigos)
+		- provisionamento mais complexo
+		
+Pros e contras Microserviços 2 (com message broker)
+	- stack dinâmica (python, go, ruby, etc)
+	- simples escalabilidade
+	- desaclopamento (quando a ligação se dá pelo message broker, pois é assíncrono)
+		
+	contras
+		- monitoramento mais complexo (várias aplicações, tecnologias e bases de códigos)
+		- provisionamento mais complexo
+
+Pros e contras Microserviços 3 (com pipeline)
+	- stack dinâmica (python, go, ruby, etc)
+	- simples escalabilidade
+	- desaclopamento 
+	- menor complexidade
+	
+	contras
+		- complexo monitoramento, gerenciamento, pois se falhar pipeline, todo o sistema para
+		- plataforma inteira depende do gerenciador de ´pipeline
+	
+
+Gerenciamento de erros e volumes de acesso
+
+Onde é mais complexo:
+	- processos assíncronos (como os microserviços 2)
+	- Pipeline
+	
+Soluções
+	- Dead letter queue
+	- Filas de re-tentativas
+	
+
+ 
