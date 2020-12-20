@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "desafio1/1.0.0": {
+      "motos/1.0.0": {
         "runtime": {
-          "desafio1.dll": {}
+          "motos.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "desafio1/1.0.0": {
+    "motos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

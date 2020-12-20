@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\motos.exe
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\motos.deps.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\motos.runtimeconfig.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\motos.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\motos.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\ref\motos.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\bin\Debug\net5.0\motos.pdb
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.csprojAssemblyReference.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\ref\motos.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.pdb
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\motos\obj\Debug\net5.0\motos.genruntimeconfig.cache
