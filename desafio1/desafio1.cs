@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 
 namespace workspace.livro_receitas
 {
-    public class Desafio1
+    public class desafio1
     {
 //         static void Main(string[] args)
 //         {

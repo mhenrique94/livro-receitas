@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\desafio1.exe
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\desafio1.deps.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\desafio1.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\ref\desafio1.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\bin\Debug\net5.0\desafio1.pdb
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.csprojAssemblyReference.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\ref\desafio1.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.pdb
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\desafio1\obj\Debug\net5.0\desafio1.genruntimeconfig.cache
