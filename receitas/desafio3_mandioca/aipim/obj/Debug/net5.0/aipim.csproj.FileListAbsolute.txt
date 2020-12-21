@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.csprojAssemblyReference.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\aipim.exe
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\aipim.deps.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\aipim.runtimeconfig.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\aipim.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\aipim.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\ref\aipim.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\bin\Debug\net5.0\aipim.pdb
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\ref\aipim.dll
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.pdb
+C:\Users\Marcelo\Documents\GitHub\livro-receitas\receitas\desafio3_mandioca\aipim\obj\Debug\net5.0\aipim.genruntimeconfig.cache
