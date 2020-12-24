@@ -38,23 +38,29 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "EntityFramework": {
               "target": "Package",
-              "version": "[5.0.1, )",
-              "noWarn": [
-                "NU1605"
-              ]
+              "version": "[6.4.4, )"
             },
-            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.1, )",
-              "noWarn": [
-                "NU1605"
-              ]
+              "version": "[5.0.1, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
