@@ -25,8 +25,8 @@ namespace asnpnet_intro
         {
             services.AddControllersWithViews();
             services.AddControllers();
-            services.AddDbContext<Tcontext >();
-            
+            services.AddDbContext<Tcontext>();
+
     
         
         }
