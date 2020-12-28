@@ -22,6 +22,7 @@ using Microsoft.EntityFrameworkCore;
 
 dotnet tool install --global dotnet-ef
 
->Executar o Migrations
+>Executar o Migrations ()
 
 dotnet ef migrations add InitialCreate
+
