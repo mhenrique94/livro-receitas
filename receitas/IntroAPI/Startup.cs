@@ -1,3 +1,4 @@
+using IntroMVC.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +28,7 @@ namespace IntroAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<Contexto>();
             services.AddSwaggerGen(c => { c.SwaggerDoc(name: "v1", new OpenApiInfo { Title = "Intro API", Version = "v1" }); });
         }
 
@@ -39,7 +41,8 @@ namespace IntroAPI
             }
 
             app.UseSwagger();
-            app.UseSwaggerUI(c => { c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "Intro API"); });
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "Intro API"); }); 
+            
             app.UseHttpsRedirection();
 
             app.UseRouting();

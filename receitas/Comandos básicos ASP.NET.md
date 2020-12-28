@@ -26,3 +26,10 @@ dotnet tool install --global dotnet-ef
 
 dotnet ef migrations add InitialCreate
 
+>Documentação XML com Swagger
+
+services.AddSwaggerGen(c => { c.SwaggerDoc(name: "v1", new OpenApiInfo { Title = "Intro API", Version = "v1" }); });
+
+app.UseSwagger();
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "Intro API"); });
+
