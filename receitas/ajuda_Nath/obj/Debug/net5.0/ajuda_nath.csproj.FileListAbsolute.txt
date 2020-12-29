@@ -1,0 +1,16 @@
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ajuda_nath.exe
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ajuda_nath.deps.json
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ajuda_nath.runtimeconfig.json
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ajuda_nath.runtimeconfig.dev.json
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ajuda_nath.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ref\ajuda_nath.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\bin\Debug\net5.0\ajuda_nath.pdb
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.csprojAssemblyReference.cache
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.AssemblyInfoInputs.cache
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.AssemblyInfo.cs
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ref\ajuda_nath.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.pdb
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\ajuda_nath\obj\Debug\net5.0\ajuda_nath.genruntimeconfig.cache
