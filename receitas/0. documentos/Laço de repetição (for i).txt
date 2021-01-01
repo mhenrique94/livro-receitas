@@ -1,0 +1,17 @@
+        static void Main(string[] args)
+        {
+            int numerodevezes = 5;
+
+            for (int i = 1; i < numerodevezes; i++)
+
+            {
+                Console.WriteLine("Bem vindo ao curso de dotnet "+ (i));
+                Console.WriteLine("Qual seu nome?");
+                string nome = Console.ReadLine();
+                Console.WriteLine(nome);
+                
+
+            }
+        }
+    }
+}

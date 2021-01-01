@@ -1,0 +1,16 @@
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\desafio2_esseciais.exe
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\desafio2_esseciais.deps.json
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\desafio2_esseciais.runtimeconfig.json
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\desafio2_esseciais.runtimeconfig.dev.json
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\desafio2_esseciais.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\ref\desafio2_esseciais.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\bin\Debug\net5.0\desafio2_esseciais.pdb
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.csprojAssemblyReference.cache
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.AssemblyInfoInputs.cache
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.AssemblyInfo.cs
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\ref\desafio2_esseciais.dll
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.pdb
+C:\Users\Marcelo Silva\Documents\GitHub\livro-receitas\receitas\desafio2_esseciais\obj\Debug\net5.0\desafio2_esseciais.genruntimeconfig.cache
