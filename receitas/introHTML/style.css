@@ -1,0 +1,53 @@
+
+
+body{
+
+    background: cadetblue;
+    max-width: 900px;
+    margin:auto;
+}
+
+
+
+/* IDs começam com # no CSS e são atribuidos com "id" e
+classe referenciado com "class" e precede . no css  */
+
+#title, .subtitle {
+    color: #505050;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+
+.posttitle{
+    font-size: 16px;
+    font-style: italic;
+    color: darkblue;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background:cornsilk ;
+    padding: 10px; 
+    
+    /* Para adicionar as propriedades do lado superior, inferior,
+    esquerdo e direito,    deve apenas adicionar os tamanhos,
+    nessa ordem: topo, direita, inferior e esquerda; ou adicionando as
+    propriedades disponíveis. */
+    border: 3px solid black;
+    /* além de solid, pode ser dotted, dashed, etc.*/
+    margin-bottom: 15px;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+
+.postimage{
+    margin-bottom: 12px;
+    width: 100%;
+}
+
+list_footer{
+    list-style-type:disc;
+    padding: 12px;
+}

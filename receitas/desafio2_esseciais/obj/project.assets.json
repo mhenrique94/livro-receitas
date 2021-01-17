@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Marcelo Silva\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcelo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcelo Silva\\Documents\\GitHub\\livro-receitas\\receitas\\desafio2_esseciais\\desafio2_esseciais.csproj",
+      "projectUniqueName": "C:\\Users\\Marcelo\\Documents\\GitHub\\livro-receitas\\receitas\\desafio2_esseciais\\desafio2_esseciais.csproj",
       "projectName": "desafio2_esseciais",
-      "projectPath": "C:\\Users\\Marcelo Silva\\Documents\\GitHub\\livro-receitas\\receitas\\desafio2_esseciais\\desafio2_esseciais.csproj",
-      "packagesPath": "C:\\Users\\Marcelo Silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcelo Silva\\Documents\\GitHub\\livro-receitas\\receitas\\desafio2_esseciais\\obj\\",
+      "projectPath": "C:\\Users\\Marcelo\\Documents\\GitHub\\livro-receitas\\receitas\\desafio2_esseciais\\desafio2_esseciais.csproj",
+      "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcelo\\Documents\\GitHub\\livro-receitas\\receitas\\desafio2_esseciais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marcelo Silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
