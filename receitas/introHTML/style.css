@@ -11,11 +11,20 @@ body{
 
 /* IDs começam com # no CSS e são atribuidos com "id" e
 classe referenciado com "class" e precede . no css  */
-
+#iconeheader{
+    display: inline-block;
+}
 #title, .subtitle {
     color: #505050;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
+}
+#title{
+    display: inline-block;
+}
+
+#btn1{
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .posttitle{
@@ -26,7 +35,9 @@ classe referenciado com "class" e precede . no css  */
     margin-bottom: 15px;
 }
 
-.post{
+#post{
+    display: none;
+    
     background:cornsilk ;
     padding: 10px; 
     

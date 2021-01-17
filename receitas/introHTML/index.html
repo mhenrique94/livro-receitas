@@ -1,22 +1,31 @@
 <! DOCTYPE html>
+
 <html>
 	<head>
-				<meta charset="utf-8">
+		<meta charset="utf-8">
 		<title> Livro de receitas do Marcelo</title>
-		<link rel="stylesheet" href="style.css"> 
+		<link rel="stylesheet" href="style.css">
+		<script src="main.js"></script> <!-- Se referencia assim o JS-->>
 		<!-- Adiciona o estilo conforme titulo arquivo css-->
+		</script>
+	
+	
 	</head>
 	<body>
 		<header>
-			<img src="img/book.png" alt="Recipe book " width="32" height="32"></img>
+			<img src="img/book.png" id="iconeheader" alt="Recipe book " width="32" height="32"></img>
 			<h1 id="title">MARCELO'S RECIPE BOOK</h1>
 			<!-- Adiciona um id css como referencia ao estilo parametrizado no arquivo css-->
 		</header>
 		<section>
 			<header>
+				<button type="button" id="btn1" onclick="clicou('post')">Clique aqui para exibir os posts!</button>
+				<button type="button" id="btn1" onclick="redirecionar()">Meu Github</button>
+				
 				<h2 class="subtitle">Posts</h2>
 			</header>
-			<article class="post">
+			
+			<article id="post" style="display: none;"><!-- Setei para iniciar essa sessão ocultando-a-->
 				<header>
 					<h3 class="posttitle">
 						Post #1
