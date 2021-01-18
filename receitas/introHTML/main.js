@@ -13,6 +13,10 @@ function clicou(){
     }
 }
 
-function redirecionar(){
+function redirecionar1(){
     window.open("https://github.com/mhenrique94");
+}
+
+function redirecionar2(){
+    window.open("https://www.linkedin.com/in/marcelohsilva/");
 }

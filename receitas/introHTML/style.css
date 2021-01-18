@@ -25,8 +25,34 @@ classe referenciado com "class" e precede . no css  */
 
 #btn1{
     font-family: 'Courier New', Courier, monospace;
+    
 }
 
+/* #btn3{
+    
+    /* background: url('imgs/icon_lnk.png') no-repeat left center;
+    
+}
+
+#btn2{ */
+    
+    /* background: url('imgs/icon_github.png') no-repeat left center; */
+    
+/* } */
+
+.linkedin span.icon{
+    background: url('imgs/icon_lnk.png');
+    float: left;
+    width: 10px;
+    height: 40px;
+}
+
+.github span.icon{
+    background: url('imgs/icon_github.png');
+    float: left;
+    width: 10px;
+    height: 40px;
+}
 .posttitle{
     font-size: 16px;
     font-style: italic;
@@ -36,7 +62,7 @@ classe referenciado com "class" e precede . no css  */
 }
 
 #post{
-    display: none;
+    /* display: none; */
     
     background:cornsilk ;
     padding: 10px; 

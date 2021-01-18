@@ -1,0 +1,130 @@
+:root{
+    --vermelho: #e50914;
+    --preta: #141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* aqui limita o tamanho da caixa para que o elemento de dentro não a estique */
+
+}
+
+body{
+    background-color: var(--preta);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    /* margin: 5px; */
+}
+
+
+
+.logomarca{
+    margin: 5px;
+    color: var(--vermelho);
+    font-family: 'Arial Black';
+    font-size: 38px;
+}
+
+main nav a{
+    text-decoration: none;
+    color: ivory;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+
+/* abaixo, o menu nav com os parametros pra quando passa o mouse em cima */
+main nav a:hover{
+    color: lightslategrey;
+}
+
+
+/* Elementos da serie pricipal */
+
+.letreiro{
+    font-size: 16;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/bg_dexter.jpg');
+    background-size: cover;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    /* margin-left: 1%;
+    margin-right: 1%; */
+
+}
+
+.letreiro .container{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-top: 10px;
+    color: ivory;
+    /* margin-left: 1%; */
+}
+
+.letreiro .container2{
+    margin-left: 1%;
+    margin-top: 12%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+
+
+.titulo{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+}
+
+.descricao{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+.botao{
+    
+    background-color: rgba(0, 0, 0, .50);
+    color: seashell;
+    border: none;
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    border-radius: 5px;
+    
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: var(--preta);
+}
+
+.botao i{
+    margin-right: 8px;
+
+}
+
+
+
+.carrosel{
+    margin-top: 1%;
+    /* margin-left: 1%;
+    margin-right: 1%; */
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}

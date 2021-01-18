@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<title> Livro de receitas do Marcelo</title>
 		<link rel="stylesheet" href="style.css">
-		<script src="main.js"></script> <!-- Se referencia assim o JS-->>
+		<script src="main.js"></script> <!-- Se referencia assim o JS-->
 		<!-- Adiciona o estilo conforme titulo arquivo css-->
 		</script>
 	
@@ -13,20 +13,22 @@
 	</head>
 	<body>
 		<header>
-			<img src="img/book.png" id="iconeheader" alt="Recipe book " width="32" height="32"></img>
+			<img src="img/book.png" id="iconeheader" alt="Recipe book " width="24" height="24"></img>
 			<h1 id="title">MARCELO'S RECIPE BOOK</h1>
 			<!-- Adiciona um id css como referencia ao estilo parametrizado no arquivo css-->
 		</header>
 		<section>
 			<header>
-				<button type="button" id="btn1" onclick="clicou('post')">Clique aqui para exibir os posts!</button>
-				<button type="button" id="btn1" onclick="redirecionar()">Meu Github</button>
-				
+				<!-- <button type="button" id="btn1" onclick="clicou('post')">Clique aqui para exibir os posts!</button> -->
+				<button type="button" id="btn2" onclick="redirecionar1()"><span class="github"></span>Meu Github</button>
+				<button type="button" id="btn3" onclick="redirecionar2()"><span class="linkedin"></span>Meu Linkedin</button>
 				<h2 class="subtitle">Posts</h2>
 			</header>
 			
-			<article id="post" style="display: none;"><!-- Setei para iniciar essa sessão ocultando-a-->
-				<header>
+			<!-- <article id="post" style="display: none;">Setei para iniciar essa sessão ocultando-a -->
+				<article id="post">
+					
+					<header>
 					<h3 class="posttitle">
 						Post #1
 					</h3>
