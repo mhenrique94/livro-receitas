@@ -1,0 +1,44 @@
+@media screen and (max-width: 700px){
+    .letreiro .container{
+        display:flex;
+        flex-direction: column;
+        margin-left: 5%;
+        
+}
+
+
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+        padding: 5px 1px 5px 1px;
+        font-size: 12px;
+    }
+
+    .letreiro .container2{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .botao2{
+        margin-top: 5px;
+        width: 300px;
+        padding: 5px 1px 5px 1px;
+        font-size: 12px;
+    }
+
+    .trailerpopup{
+        display: none;
+        border: 2px whitesmoke;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        margin-left: 10%;
+    }
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+}
+
+

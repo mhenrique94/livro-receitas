@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/responsive.css">
 
     <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
     <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
-
+    
     
     <title>NETFLIX</title>
 </head>
@@ -25,9 +26,9 @@
                     <a href="#">Séries</a>
                     <a href="#">Filmes</a>
                     <a href="#">Documentários</a>
-                    
                 </nav>
             </div>
+            
             
             <div class="container2">
                 <h3 class="titulo">DEXTER</h3>
@@ -36,12 +37,25 @@
                 </p>
                 <div class="botoes">
                     <button role="button" class="botao"><i class="fas fa-play"></i>Assistir</button>
-                    <button role="button" class="botao"><i class="fas fa-info-circle"></i>Mais informações</button>
+                    <button role="button" class="botao2" onclick="Mudarestado('trailerpopup')"><i class="fas fa-info-circle"></i>Trailer</button>
                 </div>
             </div>
+
             
         </div>
+
+        <div class="trailerpopup">
+            <p class="titulo_trailer">
+                Assistir trailer (Youtube)
+            </p>
+            <div class="containervideo">
+                <iframe id="frameyoutube" src="https://www.youtube.com/embed/YQeUmSD1c3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+
+
     </main>
+    
     <div class="carrosel">
         <div class="owl-carousel owl-theme">
             <div class="item">
@@ -85,5 +99,6 @@
     <script src="/js/owl/jquery.min.js"></script>
     <script src="/js/owl/owl.carousel.min.js"></script>
     <script src="js/owl/setup.js"></script>
+    <script src="main.js"></script>
 </body>
 </lang>

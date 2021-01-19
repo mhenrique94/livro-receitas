@@ -72,7 +72,7 @@ main nav a:hover{
 
 .letreiro .container2{
     margin-left: 1%;
-    margin-top: 12%;
+    margin-top: 5%;
     margin-bottom: 5%;
     width: 70%;
 }
@@ -87,16 +87,30 @@ main nav a:hover{
 .descricao{
    
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     margin-top: 10px;
+    
 }
 
 .botao{
     
-    background-color: rgba(0, 0, 0, .50);
-    color: seashell;
+    background-color: white;
+    color: var(--preta);
     border: none;
-    padding: 15px 30px;
+    padding: 5px 10px 5px 10px;
+    margin-right: 15px;
+    font-size: 12px;
+    border-radius: 5px;
+    
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao2{
+    background-color: white;
+    color: var(--preta);
+    border: none;
+    padding: 5px 10px 5px 10px;
     margin-right: 15px;
     font-size: 12px;
     border-radius: 5px;
@@ -106,8 +120,13 @@ main nav a:hover{
 }
 
 .botao:hover{
-    background-color: white;
-    color: var(--preta);
+    background-color:  rgba(0, 0, 0, .50);
+    color: white;
+}
+
+.botao2:hover{
+    background-color:  rgba(0, 0, 0, .50);
+    color: white;
 }
 
 .botao i{
@@ -115,7 +134,10 @@ main nav a:hover{
 
 }
 
+.botao2 i{
+    margin-right: 8px;
 
+}
 
 .carrosel{
     margin-top: 1%;
@@ -127,4 +149,12 @@ main nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.trailerpopup{
+    display: none;
+    border: 2px whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10%;
 }
