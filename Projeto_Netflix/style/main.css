@@ -178,11 +178,11 @@ main nav a:hover{
     cursor: pointer;
 }
 .icons .caixa_pesq{
-    /* display: none; */
+    display: none;
     background-color: transparent;
     border-color: ivory;
     border-style: solid;
-    width: 200px;
+    width: 150px;
     border-width: 1px;
     margin-right: 5%;
     margin-left: 0;
@@ -198,7 +198,7 @@ main nav a:hover{
     background-color: transparent;
     border-color: silver;
     border-style: solid;
-    width: 200px;
+    width: 150px;
     border-width: 1px;
     margin-right: 5%;
     margin-left: 0;
