@@ -25,14 +25,14 @@ body{
     color: var(--vermelho);
     font-family: 'Arial Black';
     font-size: 38px;
-    margin-right: -30%;
+    margin-right:-10%;
 }
 
 main nav a{
     text-decoration: none;
     color: ivory;
     /* margin-right: 10%; */
-    margin-left: 0px;
+    margin-left: 5px;
 
 }
 
@@ -171,4 +171,47 @@ main nav a:hover{
 } 
 
 */
+.icons{
+    display: flex;
+    align-content: space-between;
+    margin-right:0;
+    cursor: pointer;
+}
+.icons .caixa_pesq{
+    /* display: none; */
+    background-color: transparent;
+    border-color: ivory;
+    border-style: solid;
+    width: 200px;
+    border-width: 1px;
+    margin-right: 5%;
+    margin-left: 0;
+    font-size: 10px;
+    color: white;
+    font-style: italic;
+    
+
+}
+
+.icons .caixa_pesq:hover{
+    
+    background-color: transparent;
+    border-color: silver;
+    border-style: solid;
+    width: 200px;
+    border-width: 1px;
+    margin-right: 5%;
+    margin-left: 0;
+    font-size: 10px;
+    font-style: normal;
+    cursor: pointer;
+
+    
+    
+}
+
+/* .icons i{
+    display: none;
+} */
+
 
