@@ -3,6 +3,7 @@
         display:flex;
         flex-direction: column;
         margin-left: 5%;
+        margin-right: 5%;
         
 }
 
@@ -15,8 +16,8 @@
     }
 
     .letreiro .container2{
-        margin-left: 10%;
-        margin-right: 10%;
+        margin-left: 0%;
+        margin-right: 1%;
     }
 
     .botao2{
@@ -33,12 +34,72 @@
         margin-bottom: 20px;
         margin-left: 10%;
     }
+
+    .logomarca{
+        margin: 5px;
+        color: var(--vermelho);
+        font-family: 'Arial Black';
+        font-size: 38px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
 }
 
 @media screen and (min-width:1000px){
     .descricao{
-        width: 50%;
+        width: 60%;
+        
+        
     }
-}
 
+    .logomarca{
+        margin: 5px;
+        color: var(--vermelho);
+        font-family: 'Arial Black';
+        font-size: 38px;
+        margin-right: -40%;
+    }
+
+    .letreiro .container{
+        display:flex;
+        flex-direction: row;
+        margin-left: 5px;
+        /* align-items: flex-end; */
+    }
+    
+    .letreiro .container2{
+        margin-left: 5%;
+
+    } 
+        main nav a{
+
+            margin-left: 3px;
+            /* min-width: 50%;
+            display: flex;
+            flex-direction: row;
+            width: 90%;
+            text-decoration: none;
+            color: ivory;
+            margin-right: 0%;
+            margin-left: 4%;
+            align-items: flex-end; */
+    
+        }
+
+        /* .letreiro .container{
+            display:flex;
+            flex-direction: row;
+            /* margin-left: 5%; */
+            /* width: 95%;
+            align-items: center;
+            align-content: space-between; */
+            
+
+
+    /* .menu{
+        margin-left: 0%;
+    */
+    
+}
 

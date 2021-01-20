@@ -25,13 +25,14 @@ body{
     color: var(--vermelho);
     font-family: 'Arial Black';
     font-size: 38px;
+    margin-right: -30%;
 }
 
 main nav a{
     text-decoration: none;
     color: ivory;
-    margin-right: 10px;
-    margin-left: 10px;
+    /* margin-right: 10%; */
+    margin-left: 0px;
 
 }
 
@@ -51,8 +52,10 @@ main nav a:hover{
     height: 450px;
     display: flex;
     flex-direction: column;
-    justify-content:flex-start;
-    align-items: flex-start;
+    /* justify-content:center; */
+    align-items: center;
+
+    width: 100%;
     /* margin-left: 1%;
     margin-right: 1%; */
 
@@ -64,17 +67,18 @@ main nav a:hover{
     /* border: 1px solid black; */
     align-items: center;
     justify-content: space-between;
-    margin-right: 50px;
+    /* margin-right: 50px; */
     margin-top: 10px;
     color: ivory;
+    width: 95%;
     /* margin-left: 1%; */
 }
 
 .letreiro .container2{
-    margin-left: 1%;
+    /* margin-left: 1px; */
     margin-top: 5%;
     margin-bottom: 5%;
-    width: 70%;
+    width: 90%;
 }
 
 
@@ -158,3 +162,13 @@ main nav a:hover{
     margin-bottom: 20px;
     margin-left: 10%;
 }
+
+/* main .icons{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1px;
+    /* margin-right: .5%; 
+} 
+
+*/
+
