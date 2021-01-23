@@ -5,7 +5,6 @@
     text-decoration: none;
     font-family: sans-serif;
     font-size: 14px;
-
 }
 
 
@@ -25,8 +24,6 @@ body{
     /* eixo y - vertical */
     justify-content: start;
     /* eixo x - horizontal*/
-    /* width: 50%; */
-    /* margin-left: .6%; */
 }
 
 .phone{
@@ -51,8 +48,6 @@ body{
     justify-content: space-around;
     flex-direction: column;
     width: 50%;
-
-    
 }
 
 
@@ -119,7 +114,6 @@ body{
     justify-content: center;
     width: 100%;
     padding: 1.3rem 0;
-    /* max-width: 300px; */
 }
 
 .download{
@@ -135,8 +129,6 @@ body{
     height: 3rem;
     width: 10.1rem;
     background-size: cover;
-    
-
 }
 
 .appdownload:nth-child(1){
@@ -166,12 +158,11 @@ footer{
         
         
     }
+    
      .instagramwrapper{
          width: 100%;
          justify-content: center;
          align-items: center;
-         /* align-content: center; */
-
      }
 
      .phone{
