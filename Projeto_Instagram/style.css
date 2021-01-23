@@ -1,0 +1,284 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+
+}
+
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.instagramwrapper{
+    display: flex;
+    align-items: center;
+    /* eixo y - vertical */
+    justify-content: start;
+    /* eixo x - horizontal*/
+    /* width: 50%; */
+    /* margin-left: .6%; */
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+
+}
+
+.phone img{
+    height: 50rem;
+    margin-left: 0;
+    margin: 10%;
+}
+
+
+.account   {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50%;
+
+    
+}
+
+
+.group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column ;
+    background-color: white;
+    width: 100%;
+    padding: 1.3rem;
+    border: 1px solid lightgray;
+    max-width: 300px;
+    margin: 10px;
+}
+
+.group:nth-child(1){
+    min-height: 19rem;
+
+}
+
+.logo{
+    height: 3rem;
+}
+
+.profilephoto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+.profilephoto img{
+    height: 6rem;
+    width: 6rem;
+}
+
+.login{
+    background-color: #0095f6;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.logout{
+    color: #0095f6;
+    margin-top: 1rem;
+}
+
+.not-account{
+    color: rgb(160, 160, 160);
+}
+
+.linkblue{
+    color: #0095f6;
+}
+
+.getapps{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3rem 0;
+    /* max-width: 300px; */
+}
+
+.download{
+    display: flex;
+    width: 30rem;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 3rem;
+
+}
+
+.appdownload{
+    height: 3rem;
+    width: 10.1rem;
+    background-size: cover;
+    
+
+}
+
+.appdownload:nth-child(1){
+    background-image: url(/img/playstore.png);
+    
+}
+
+.appdownload:nth-child(2){
+    background-image: url(/img/appstore.png);
+    
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 99%;
+ 
+}
+
+/* MEDIA QUERIES
+ */
+ 
+
+ @media (max-width: 1024px){
+    body{
+        background-color: whitesmoke;
+        
+        
+    }
+     .instagramwrapper{
+         width: 100%;
+         justify-content: center;
+         align-items: center;
+         /* align-content: center; */
+
+     }
+
+     .phone{
+        align-items: center;
+        justify-content: start;
+        flex-direction: column-reverse;
+   flex-direction: row-reverse;
+   width: 25rem;
+   /* height: 70%; */
+   align-items: flex-end;
+   justify-content:center;
+
+     }
+
+     .appdownload:nth-child(2){
+        /* width: 40%; */
+        size: 10%;
+        
+    }
+
+    .appdownload:nth-child(1){
+        /* width: 40%; */
+        size: 10%;
+        
+    }
+
+    .download{
+        width: 28rem;
+        height: 10rem;
+
+        
+    }
+
+    .phone img{
+        width: 100%;
+        padding-left: 10px;
+        margin-right: auto;
+        height: max-content;
+        
+        
+    }
+}
+
+ @media (max-width: 650px){
+     body{
+         background-color: white;
+     }
+    
+     .instagramwrapper{
+         width: 100%;
+         /* height: 100%; */
+
+         justify-content: center;
+         align-items: center;
+         align-content: center;
+         
+
+     }
+
+     .phone{
+         display: none;
+
+     }
+
+     .account   {
+                
+        width: 100%;
+    }
+    .appdownload:nth-child(2){
+        /* width: 40%; */
+        size: 20%;
+        
+    }
+
+    .appdownload:nth-child(1){
+        /* width: 40%; */
+        size: 20%;
+        
+    }
+
+    .download{
+        width: 100%;
+        height: 100%;
+
+        
+    }
+    
+    .group{
+        border: 1px solid whitesmoke;
+        
+    }
+
+    .appdownload{
+        height: 3rem;
+        width: 13rem;
+    }
+
+    .getapps{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 90%;
+        padding: 2rem 0;
+        max-width: 320px;
+       
+        
+    }
+
+}
